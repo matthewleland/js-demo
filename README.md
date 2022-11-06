@@ -1,4 +1,4 @@
-# js-demo
+# JavaScript Demo
 
 Single-page console application demonstrating JavaScript syntax and highlighting it's differences to Java.
 
